@@ -10,20 +10,15 @@
 # About Us
 SparrowStudios is a new development team who's primary focus is on FiveM scripts.
 
-### Our Team
 <div align="center">
     <table>
+        <th colspan="4"><h3>Our Team</h3></th>
         <tr>
             <td>
                 <img src="https://avatars.githubusercontent.com/u/56453471?v=4" height="128" />
             </td>
-            <td width="300">
+            <td width="200">
                 <div align="center">
-                    <img src="../.github/assets/icons/AstroFounder.png" />
-                    Founder
-                    <img src="../.github/assets/icons/AstroFounder.png" />
-                    <br> 
-                    <br> 
                     Jacob Paulin 
                     <br> 
                     (JayPaulinCodes)
@@ -34,9 +29,28 @@ SparrowStudios is a new development team who's primary focus is on FiveM scripts
                     <a href="https://github.com/JayPaulinCodes">GitHub</a>
                 </div>
             </td>
+            <td>
+                <a href="https://github.com/JayPaulinCodes">
+                    <img  alt="JayPaulinCodes's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/JayPaulinCodes?cardType=github&preferLogin=true&Background=343434&Text=90DDFF" />
+                </a>
+            </td>
         </tr>
     </table>
 </div>
+
+# Our Projects
+
+<p align="center">
+    <a href="https://github.com/SparrowStudios/ssDrones">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SparrowStudios&repo=ssDrones&theme=radical&bg_color=343434&text_color=90DDFF&title_color=2F80ED" alt="ssDrones">
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/orgs/SparrowStudios/repositories">
+        <img alt="Static Badge" src="https://img.shields.io/badge/All%20Repos-All%20Repos?style=plastic&logo=github&labelColor=2962FF&color=2962FF&link=https%3A%2F%2Fgithub.com%2FSparrowStudios%3Ftab%3Drepositories&link=https%3A%2F%2Fgithub.com%2FSparrowStudios%3Ftab%3Drepositories">
+    </a>
+</p>
 
 
 # Discord
