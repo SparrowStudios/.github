@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="../.github/assets/sparrowStudiosBanner.png">
+    <img src="https://github.com/SparrowStudios/.github/raw/master/.github/assets/sparrowStudiosBanner.png">
 </p>
 <p align="center">
     <a href="https://discord.gg/FTYjcbkzFn" alt="Discord">
@@ -65,7 +65,7 @@ This project uses the <b>Mozilla Public License 2.0</b>
 Permissions of this weak copyleft license are conditioned on making available source code of licensed files and modifications of those files under the same license (or in certain cases, one of the GNU licenses). Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. However, a larger work using the licensed work may be distributed under different terms and without source code for files added in the larger work.
 <br>
 <br>
-The license can be read <a href="../LICENSE">here</a>
+The license can be read <a href="https://github.com/SparrowStudios/.github/blob/master/LICENSE">here</a>
 <br>
 <br>
 The following table provides a breif overview of the license. Hovering each point will provide a more detailed description.
@@ -86,6 +86,6 @@ The following table provides a breif overview of the license. Hovering each poin
 
 | Permissions | Conditions | Limitations |
 |---|---|---|
-| [<img src="../.github/assets/licenseSpriteGreen.png"> Commercial use][permissions1] <br> [<img src="../.github/assets/licenseSpriteGreen.png"> Distribution][permissions2] <br> [<img src="../.github/assets/licenseSpriteGreen.png"> Modification][permissions3] <br> [<img src="../.github/assets/licenseSpriteGreen.png"> Patent use][permissions4] <br> [<img src="../.github/assets/licenseSpriteGreen.png"> Private use][permissions5] | [<img src="../.github/assets/licenseSpriteBlue.png"> Disclose source][conditions1] <br> [<img src="../.github/assets/licenseSpriteBlue.png"> License and copyright notice][conditions3] <br> [<img src="../.github/assets/licenseSpriteBlue.png"> Same license (file)][conditions2] | [<img src="../.github/assets/licenseSpriteRed.png"> Liability][limitations1] <br> [<img src="../.github/assets/licenseSpriteRed.png"> Trademark use][limitations2] <br> [<img src="../.github/assets/licenseSpriteRed.png"> Warranty][limitations3] |
+| [<img src="https://github.com/SparrowStudios/.github/raw/master/.github/assets/licenseSpriteGreen.png"> Commercial use][permissions1] <br> [<img src="https://github.com/SparrowStudios/.github/raw/master/.github/assets/licenseSpriteGreen.png"> Distribution][permissions2] <br> [<img src="https://github.com/SparrowStudios/.github/raw/master/.github/assets/licenseSpriteGreen.png"> Modification][permissions3] <br> [<img src="https://github.com/SparrowStudios/.github/raw/master/.github/assets/licenseSpriteGreen.png"> Patent use][permissions4] <br> [<img src="https://github.com/SparrowStudios/.github/raw/master/.github/assets/licenseSpriteGreen.png"> Private use][permissions5] | [<img src="https://github.com/SparrowStudios/.github/raw/master/.github/assets/licenseSpriteBlue.png"> Disclose source][conditions1] <br> [<img src="https://github.com/SparrowStudios/.github/raw/master/.github/assets/licenseSpriteBlue.png"> License and copyright notice][conditions3] <br> [<img src="https://github.com/SparrowStudios/.github/raw/master/.github/assets/licenseSpriteBlue.png"> Same license (file)][conditions2] | [<img src="https://github.com/SparrowStudios/.github/raw/master/.github/assets/licenseSpriteRed.png"> Liability][limitations1] <br> [<img src="https://github.com/SparrowStudios/.github/raw/master/.github/assets/licenseSpriteRed.png"> Trademark use][limitations2] <br> [<img src="https://github.com/SparrowStudios/.github/raw/master/.github/assets/licenseSpriteRed.png"> Warranty][limitations3] |
 
 </details>
