@@ -14,7 +14,7 @@ SparrowStudios is a new development team who's primary focus is on FiveM scripts
     <table>
         <th colspan="4"><h3>Our Team</h3></th>
         <tr>
-            <td>
+            <td width="128">
                 <img src="https://avatars.githubusercontent.com/u/56453471?v=4" height="128" />
             </td>
             <td width="200">
@@ -24,7 +24,7 @@ SparrowStudios is a new development team who's primary focus is on FiveM scripts
                     (JayPaulinCodes)
                 </div>
             </td>
-            <td width="150">
+            <td>
                 <div align="center">
                     <a href="https://github.com/JayPaulinCodes">GitHub</a>
                 </div>
