@@ -15,7 +15,7 @@ SparrowStudios is a new development team who's primary focus is on FiveM scripts
         <th colspan="4"><h3>Our Team</h3></th>
         <tr>
             <td width="138">
-                <img src="https://avatars.githubusercontent.com/u/56453471?v=4" height="128" />
+                <img src="https://avatars.githubusercontent.com/u/56453471?v=4" height="128" width="128" />
             </td>
             <td>
                 <div align="center">
